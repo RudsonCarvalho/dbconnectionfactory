@@ -1,0 +1,9 @@
+C:\Projetos\DbConnection\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Projetos\DbConnection\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Projetos\DbConnection\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Projetos\DbConnection\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\PROJETOS_SETIA_2015\SETIA\PROD_SETIA_DYNAMICDASH\3_implementacao\MODULOS\ConexaoFactory\DbConnection\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\PROJETOS_SETIA_2015\SETIA\PROD_SETIA_DYNAMICDASH\3_implementacao\MODULOS\ConexaoFactory\DbConnection\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\PROJETOS_SETIA_2015\SETIA\PROD_SETIA_DYNAMICDASH\3_implementacao\MODULOS\ConexaoFactory\DbConnection\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\PROJETOS_SETIA_2015\SETIA\PROD_SETIA_DYNAMICDASH\3_implementacao\MODULOS\ConexaoFactory\DbConnection\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\PROJETOS_SETIA_2015\SETIA\PROD_SETIA_DYNAMICDASH\3_implementacao\MODULOS\ConexaoFactory\DbConnection\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
