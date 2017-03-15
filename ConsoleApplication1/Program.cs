@@ -58,7 +58,7 @@ namespace ConsoleApplication1
                     
                     case "5":
                         dbProvider = "MySql";
-                        connectionParamDTO = new ConnectionParamDTO("dbmy0101.whservidor.com", "shopalianc_1", "shopalianc_1", "UH3112br", 3306);
+                        connectionParamDTO = new ConnectionParamDTO("dbmy0101.whservidorteste.com", "shopteste", "shopteste_1", "UH3112br", 3306);
                         break;
 
                     case "6":
